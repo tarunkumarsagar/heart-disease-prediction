@@ -1,4 +1,4 @@
-# heart-disease-prediction
+# Heart-Disease-Prediction
 Heart Disease Prediction ML Project 🩺❤️ 
 Welcome to the Heart Disease Prediction project! In this repository, I present a supervised classification model developed using scikit-learn, pandas, numpy, and matplotlib. The primary objective is to predict the likelihood of heart disease based on a set of medical attributes, contributing to early diagnosis and intervention.
 
